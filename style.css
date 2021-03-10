@@ -1,0 +1,42 @@
+body {
+    width: 100%;
+    height: auto;
+}
+.nav{
+    display: flexbox;
+    width: 100%;
+    flex-direction: row;
+}
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+.clearfix {
+    overflow: auto;
+}
+.float-right{
+    float: right;
+}
+.float-left{
+    float: left;
+}
+/* .first-page {
+    height: 400px;
+    width: 100%;
+}
+.first-page-div2 {
+    width: 50%;
+    float: left;
+}
+.first-page-div2 {
+    float: right;
+    width: 50%;
+}
+.image {
+    float: right;
+}
+.my-name-span {
+    margin: auto;
+    padding-top: 200px;
+}
+ */
