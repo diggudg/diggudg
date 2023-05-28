@@ -3,7 +3,14 @@
 
  <img src="./angular.svg" width=50> <img src="./NET_Core_Logo.svg" width=50> <img src="./react.svg" width=50>
 - I'm a _Full Stack Developer_, with knowledge of .Net all major version and Angular & React.
-- Also I'm certified Azure Developer (AZ-203). 
+- Born and educated in India.
+- MS certified Azure developer.
+- Intensive working experience with .Net core, c#, GraphQL, Azure, Nodejs, Aws, Event/messaged
+based application, DDD, SQL, Angular, React, Cypress, puppeteer, and playwright.
+- DEVOPS: Git, GitHub, GitHub Action, Bitbucket, TeamCity, Octopus, Azure DevOps
+- Worked in SAFe agile, Scrum and Kanban environments, good knowledge of planning/backlog refinement, estimation and conducting scrum and other sprint ceremony.
+- Good knowledge of BDD, TDD, unit testing, integration testing and E2E
+
  
 
 <!--
