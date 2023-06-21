@@ -1,8 +1,7 @@
 ### Hi 👋, I'm Digvijay Singh.
 ###### Also known by name 'DigguDG'. 👋
 
- <img src="./NET_Core_Logo.svg" width=50> <img src="./react.svg" width=50> <img src="./angular.svg" width=50>
-GitHub Profile: [Your Name]
+ <img src="./NET_Core_Logo.svg" width=50> <img src="./react.svg" width=50> <img src="./angular.svg" width=50
 
 Summary:
 - MS certified Azure, .Net Developer with Full stack development and cloud application development experience.
