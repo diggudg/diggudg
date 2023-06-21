@@ -5,7 +5,7 @@
 - I'm a _Full Stack Developer_, with knowledge of .Net all major version and Angular & React.
 - Born and educated in India.
 - MS certified Azure developer.
-- Intensive working experience with .Net core, c#, GraphQL, Azure, Nodejs, Aws, Event/messaged
+- Intensive working experience with .Net core, c#, GraphQL, Azure, Nodejs, Aws, Event
 based application, DDD, SQL, Angular, React, Cypress, puppeteer, and playwright.
 - DEVOPS: Git, GitHub, GitHub Action, Bitbucket, TeamCity, Octopus, Azure DevOps
 - Worked in SAFe agile, Scrum and Kanban environments, good knowledge of planning/backlog refinement, estimation and conducting scrum and other sprint ceremony.
