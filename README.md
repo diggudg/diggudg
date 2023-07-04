@@ -45,9 +45,6 @@ Tech Stack:
 Feel free to explore my repositories for more details on my projects, contributions, and code samples.
 
 Let's connect and collaborate on exciting projects! 🤝
-
-Note: This is a general outline
-
  
 
 <!--
